@@ -1,0 +1,1 @@
+Desenvolvimento de uma interface do cliente para retirada do produto, neste caso, o valor total esta relacionado ao tamanho do pote e tipo de sorvete.
